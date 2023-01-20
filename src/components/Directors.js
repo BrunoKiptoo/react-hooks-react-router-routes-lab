@@ -22,3 +22,5 @@ const Directors = () => {
 };
 
 export default Directors;
+
+//remember to add 
